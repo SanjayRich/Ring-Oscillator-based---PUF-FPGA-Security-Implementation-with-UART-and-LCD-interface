@@ -24,7 +24,8 @@ Clone the bitstream? The PUF ID won't match. Flash it on a counterfeit board? Au
 
 ##  Architecture
 
-<img width="1408" height="768" alt="Gemini_Generated_Image_g9py56g9py56g9py" src="https://github.com/user-attachments/assets/1188e25d-68d9-4ddf-84ef-269005799073" />
+<img width="1408" height="647" alt="Gemini_Generated_Image_lakxkylakxkylakx" src="https://github.com/user-attachments/assets/04792bac-9246-460c-85de-d1545ca9fc1a" />
+
 
 
 ##  Project Structure
