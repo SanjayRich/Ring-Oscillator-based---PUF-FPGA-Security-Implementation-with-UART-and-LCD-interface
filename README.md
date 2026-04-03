@@ -24,17 +24,8 @@ Clone the bitstream? The PUF ID won't match. Flash it on a counterfeit board? Au
 
 ##  Architecture
 
-```
-CLOCK_50 ──► puf_16bit ──► puf_id[15:0] ──► XOR ──► mux_out
-                │                              │          │
-           [16 × ro_puf_bit]           GOLDEN_HASH    auth_ok / auth_fail
-                │                                          │
-           [ring_osc A vs B]                          LEDR0 / LEDG0
-           count & compare                            HEX0–HEX7
-                                                      LCD_controller
-```
+<img width="1408" height="768" alt="Gemini_Generated_Image_g9py56g9py56g9py" src="https://github.com/user-attachments/assets/1188e25d-68d9-4ddf-84ef-269005799073" />
 
----
 
 ##  Project Structure
 
