@@ -1,4 +1,4 @@
-# Ring-Oscillator-based---PUF-FPGA-Security-Implementation-with-UART-and-LCD-interface
+# Design and Implementation of a Ring Oscillator-Based PUF for FPGA Security
 
 > **Your `.bit` file got stolen. Your design is cloned. Your IP is on AliExpress.**
 > 
